@@ -120,7 +120,7 @@ function replaceText(v)
 
     // Stopped veganism
     v = v.replace(/\bI('|")m not vegan anymore\b/gi, "I stopped caring about animals and the environment");
-    v = v.replace(/\bI('|")m no longer vegan\b/g, "the best time of the year");
+    v = v.replace(/\bI('|")m no longer vegan\b/g, "I stopped caring about animals and the environment");
 
     // meat
     v = v.replace(/\bMeat(s)?\b/g, "Dead Animal Flesh");
