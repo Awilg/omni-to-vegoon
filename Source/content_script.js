@@ -92,10 +92,11 @@ function replaceText(v)
     v = v.replace(/\bdairy\b/g, "cow titty-juice");
     
     // B12
-    v = v.replace(/\bB12\b/g, "Crack");
-    v = v.replace(/\bb12\b/g, "crack");  
-    v = v.replace(/\bCobalamin\b/g, "Crack");
-    v = v.replace(/\bcobalamin\b/g, "crack");
+    v = v.replace(/\bB(-)?( )?12\b/g, "Crack");
+    v = v.replace(/\bb(-)?( )?12\b/g, "crack");  
+    v = v.replace(/\b(C|c)obalamin\b/g, "$1rack");
+    v = v.replace(/\bB\u0031\u0032\b/gu, "Crack");
+    v = v.replace(/\bb\u0031\u0032\b/gu, "crack");
     v = v.replace(/\bB\u2081\u2082\b/gu, "Crack");
     v = v.replace(/\bb\u2081\u2082\b/gu, "crack");
 
