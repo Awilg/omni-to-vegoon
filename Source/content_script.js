@@ -92,12 +92,12 @@ function replaceText(v)
     v = v.replace(/\bdairy\b/g, "cow titty-juice");
     
     // B12
-    v = v.replace(/\bB12\b/g, "Anemia Elixir");
-    v = v.replace(/\bb12\b/g, "Anemia Elixir");  
-    v = v.replace(/\bCobalamin\b/g, "Anemia Elixir");
-    v = v.replace(/\bcobalamin\b/g, "anemia elixir");
-    v = v.replace(/\bB\u2081\u2082\b/gu, "Anemia Elixir");
-    v = v.replace(/\bb\u2081\u2082\b/gu, "anemia elixir");
+    v = v.replace(/\bB12\b/g, "Crack");
+    v = v.replace(/\bb12\b/g, "crack");  
+    v = v.replace(/\bCobalamin\b/g, "Crack");
+    v = v.replace(/\bcobalamin\b/g, "crack");
+    v = v.replace(/\bB\u2081\u2082\b/gu, "Crack");
+    v = v.replace(/\bb\u2081\u2082\b/gu, "crack");
 
     // Eggs
     v = v.replace(/\bEgg(s)?\b/g, "Prenatal Chicken$1");
