@@ -1,4 +1,4 @@
-# Vegan to Vegoon
+# Omni to Vegoon
 
 Sometimes, it's just a matter of perspective. This is a browser extension that reveals the *real* truth behind Omnivore language. 
 
