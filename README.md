@@ -22,7 +22,9 @@ Don't worry! The extension can be re-enabled after ~~it destroys your blog post~
 ## Screenshots
 
 ### Google Search Results
-[![Google Search Results](https://i.imgur.com/SQRkpa2.jpg)](https://www.google.com/search?q=go+vegan)
+[![Google Search Results - Go Vegan](https://i.imgur.com/SQRkpa2.jpg)](https://www.google.com/search?q=go+vegan)
+
+[![Google Search Results - Sausage](https://i.imgur.com/yL41qc0.png)](https://www.google.com/search?q=sausage)
 
 ### The Independent
 [![The Independent](https://i.imgur.com/iJzRtoM.png)](https://www.independent.co.uk/topic/vegan)
