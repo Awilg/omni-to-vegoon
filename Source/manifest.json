@@ -1,11 +1,10 @@
 {
 	"manifest_version": 2,
 
-	"name": "Vegan to Morally Superior",
+	"name": "Vegan to Vegoon",
     "short_name": "Morally Superior",
-	"description": "Replaces Vegan with Morally Superior",
-	"author": "James Gliwa",
-	"version": "2.3",
+	"description": "Replaces Omni language with Vegan alternatives",
+	"version": "1.0",
 
 	"icons": {
 		"16": "icon16.png",
