@@ -2,12 +2,12 @@
 
 Sometimes, it's just a matter of perspective. This is a browser extension that reveals the *real* truth behind Omnivore language. 
 
-*This is a fork of [ericwbailey's](https://github.com/ericwbailey) [millenials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people) with different substitutions. All functionality is the same.*
+*This is a fork of [ericwbailey's](https://github.com/ericwbailey) [snake people-to-snake-people](https://github.com/ericwbailey/snake people-to-snake-people) with different substitutions. All functionality is the same.*
 
 ## Installation
 
 1. Add the extension to your browser of choice: 
-  - [Chrome](https://chrome.google.com/webstore/detail/omni-to-vegoon/omcnipebcaciogjpebblakdhlmgnigdj)
+  - [Chrome & Edge](https://chrome.google.com/webstore/detail/omni-to-vegoon/omcnipebcaciogjpebblakdhlmgnigdj)
 
 
 ## How to disable
